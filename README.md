@@ -27,8 +27,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyes-Mekhalfa&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ilyes-Mekhalfa&theme=radical)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
