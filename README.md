@@ -1,6 +1,6 @@
 # Hey, I'm Ilyes 👋  
 
-💡 AI/ML enthusiast • ⚛️ React & Angular.js Enthusiast • 🎨 Clean UI Lover  
+💡 AI/ML enthusiast • ⚛️ React & Angular.js Enthusiast • 🎨 Clean Architecture Lover  
 
 ---
 
