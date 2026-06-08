@@ -6,9 +6,9 @@
 
 ## 🙋 About Me
 - 🎓 I'm a Computer Science student from Algeria 🇩🇿
-- 🔭 I’m currently working on MedQuiz platform ...
-- 🌱 I’m currently learning Next.Js 
-- 🚀 I build modern web apps using **Next.js, React, Tailwind CSS, and ChakraUi**  
+- 🔭 I’m currently working on Wastoo platform ...
+- 🌱 I’m currently learning Angular.Js 
+- 🚀 I build modern web apps using **Angular.js, React, Tailwind CSS, and ChakraUi**  
 - 🧠 I integrate **AI-powered experiences** with tools like  OpenAI, and Clerk  
 - 🔥 I use **Supabase , Next.Js, and Node.js** for backend and data  
 - 🌍 Passionate about creating **chatbots, and educational tools**  
