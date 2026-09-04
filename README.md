@@ -82,27 +82,22 @@
   />
 </p>
 
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyes-Mekhalfa&theme=tokyo-night&hide_border=true"
-    alt="Ilyes's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
----
 
 ## 🚀 Featured Projects
 
 ### 🗑️ Wastoo
 
-A waste management platform connecting users with waste collectors and helping improve waste collection through technology.
+A waste management platform connecting users with waste collectors and improving waste collection through technology.
 
 **Tech:** React Native • NestJS • PostgreSQL • Prisma • JWT • OpenStreetMap
-
----
 
 ### 🧠 AI / Recommendation Systems
 
@@ -110,46 +105,8 @@ Machine-learning projects involving recommendation systems, ranking and predicti
 
 **Tech:** Python • LightGBM • XGBoost • Scikit-learn • TensorFlow
 
----
-
 ### 🧰 Haversine Toolkit
 
-A TypeScript utility package for calculating geographical distances using the Haversine formula.
-
-**NPM:** `haversine-toolkit`
+A TypeScript package for calculating geographical distances using the Haversine formula.
 
 **Tech:** TypeScript • Node.js • npm
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://protfolio-ln7u.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/Ilyes-Mekhalfa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ilyes-Mekhalfa/Ilyes-Mekhalfa/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h3 align="center">
-  💡 "Build. Learn. Improve. Repeat."
-</h3>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
