@@ -56,13 +56,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Profile Summary
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ilyes-Mekhalfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyes-Mekhalfa&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilyes-Mekhalfa&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ilyes-Mekhalfa&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ilyes-Mekhalfa&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ilyes-Mekhalfa&theme=tokyonight&utcOffset=1" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
@@ -73,23 +75,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Ilyes-Mekhalfa&theme=tokyonight&no-frame=true&no-bg=true&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyes-Mekhalfa&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 ## 🚀 Featured Projects
 
