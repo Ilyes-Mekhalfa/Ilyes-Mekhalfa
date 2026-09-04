@@ -76,7 +76,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ilyes-Mekhalfa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ilyes-Mekhalfa&theme=tokyonight&no-frame=true&no-bg=true&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -84,9 +87,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyes-Mekhalfa&theme=tokyo-night&hide_border=false" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ilyes-Mekhalfa&theme=tokyo-night&hide_border=true"
+    alt="Ilyes's GitHub Activity Graph"
+  />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
